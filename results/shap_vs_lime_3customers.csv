@@ -1,0 +1,4 @@
+customer,spearman_all_features,top5_overlap,sign_agreement_top5
+1_confident_churner,0.95,4,1.0
+2_confident_loyal,0.835,5,1.0
+3_missed_churner,0.935,4,1.0
